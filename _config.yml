@@ -1,0 +1,28 @@
+name: KJ
+favicon: null
+layout_spectrum: 0.05507826851680875
+typography_spectrum: 0.3830333179794252
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05170027329586446
+  lightness: 0.7620126360561699
+  saturation: 0.19878202793188393
+  rhythmicContrast: 0.45080188591964543
+purpose: []
